@@ -1,0 +1,41 @@
+/*
+* @Author: Administrator
+* @Date:   2018-08-11 15:31:11
+* @Last Modified by:   Administrator
+* @Last Modified time: 2018-08-14 19:37:14
+*/
+/* 中部内容区 */
+	center.autoW{
+		margin-top:20px;
+	}
+	center .left ul li a{
+		width:164px;
+		background-color: #0b7722;
+		height:34px;
+		float:left;
+		margin-top:1px;
+		text-align: center;
+		color:#fff;
+		font-size: 16px;
+		line-height: 34px;
+	}
+	center .left ul li:first-child a{
+		background-color: #e39240;
+	}
+	center .left{
+		border-right:1px solid #e39240 ;
+		height:600px;
+	}
+	center .right{
+		width:832px;
+
+	}
+	center .right p{
+		margin-top:30px;
+		margin-left:30px;
+		line-height: 20px;
+		text-align: left;
+	}
+	center .right p:first-child{
+		margin-top:0px;
+	}
